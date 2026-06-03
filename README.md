@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate frontend developer from İzmir/Turkey</h3>
+<h1 align="center">Hi 👋, I'm Mustafa Kahraman</h1>
+<h3 align="center">A passionate Software Developer from İzmir/Turkey</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kahramanx/kahramanx/output/github-contribution-grid-snake-dark.svg">
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Next.JS, TypeScript,**
 
-- 📫 How to reach me **kahramanmustapha@gmail.com**
+- 📫 How to reach me **mkahraman.work@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mustafa--kahraman/)
 
